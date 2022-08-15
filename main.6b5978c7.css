@@ -1,0 +1,2 @@
+body{margin:0}.cells{max-width:1199px;display:grid;justify-content:center;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}.cells__cell{height:300px;min-width:300px;font-size:100px;font-family:Arial,Helvetica,sans-serif;color:#fff;text-align:center;line-height:300px}.cells__cell--1{background-color:red}.cells__cell--2{background-color:#c00}.cells__cell--3{background-color:#900}.cells__cell--4{background-color:#600}.cells__cell--5{background-color:#300}.cells__cell--6{background-color:#000}
+/*# sourceMappingURL=main.6b5978c7.css.map */
